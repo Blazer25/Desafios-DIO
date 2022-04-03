@@ -12,6 +12,9 @@ A entrada consiste de uma única linha que contém dois inteiros H e P (1 ≤ H,
 
 Saída
 Seu programa deve produzir uma única linha com um número racional representando o número médio de coxinhas consumidas pelos participantes. O resultado deve ser escrito como um número racional com exatamente dois dígitos após o ponto decimal, arredondado se necessário.*/
+
+//CÓDIGO
+
 let line = gets().split(" ");
 
 let H = parseInt(line[0])
